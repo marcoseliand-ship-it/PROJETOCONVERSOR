@@ -25,8 +25,7 @@ main {
 label {
     font-size: 14px;
     color: #777777;
-   font-weight: 400px;
-
+    font-weight: 400;
 }
 
 select {
@@ -106,7 +105,7 @@ section {
 .currency {
     font-size: 14px;
     color: #777777;
-    font-weight: 400px;
+    font-weight: 400;
     align-items: center;
 }
 
